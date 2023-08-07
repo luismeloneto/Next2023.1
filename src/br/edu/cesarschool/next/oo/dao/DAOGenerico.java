@@ -1,8 +1,9 @@
 package br.edu.cesarschool.next.oo.dao;
 
 import java.io.Serializable;
-import br.edu.cesarschool.next.oo.persistenciaobjetos.CadastroObjetos;
+
 import br.edu.cesarschool.next.oo.entidade.RegistroIdentificavel;
+import br.edu.cesarschool.next.oo.persistenciaobjetos.CadastroObjetos;
 
 public class DAOGenerico {
 
